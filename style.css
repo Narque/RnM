@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+    color:white;
+}
+#heading1{
+    font-family: 'Caveat', cursive;
+    text-align: center;;
+    
+}
+#rickandmorty{
+    border:yellow solid 5px;
+    width: 100%;
+}
+#div1{
+    margin-left: 25%;
+    width: 50%;
+}
+#p1{
+    text-align: center;
+}
